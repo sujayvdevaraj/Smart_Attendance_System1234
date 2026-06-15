@@ -274,7 +274,7 @@ const App = () => {
       </main>
 
       <footer className="footer">
-        <p>&copy; 2024 Smart Attendance System - Final Year Project</p>
+        <p>&copy; Developed By - Sujay V Devaraj</p>
       </footer>
     </div>
   );
