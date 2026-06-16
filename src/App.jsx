@@ -1,14 +1,14 @@
 import React, { useState, useEffect } from 'react';
-import Navbar from './components/Navbar';
-import DashboardCards from './components/DashboardCards';
-import StudentForm from './components/StudentForm';
-import StudentList from './components/StudentList';
-import AttendanceTable from './components/AttendanceTable';
-import DateSelector from './components/DateSelector';
-import SearchFilter from './components/SearchFilter';
-import QuickActions from './components/QuickActions';
-import AttendanceStats from './components/AttendanceStats';
-import RecentActivity from './components/RecentActivity';
+import Navbar from './components/Navbar.jsx';
+import DashboardCards from './components/DashboardCards.jsx';
+import StudentForm from './components/StudentForm.jsx';
+import StudentList from './components/StudentList.jsx';
+import AttendanceTable from './components/AttendanceTable.jsx';
+import DateSelector from './components/DateSelector.jsx';
+import SearchFilter from './components/SearchFilter.jsx';
+import QuickActions from './components/QuickActions.jsx';
+import AttendanceStats from './components/AttendanceStats.jsx';
+import RecentActivity from './components/RecentActivity.jsx';
 import './App.css';
 
 const App = () => {

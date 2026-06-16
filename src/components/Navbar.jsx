@@ -1,6 +1,6 @@
 import React from 'react';
 import { FaUserGraduate } from 'react-icons/fa';
-import ThemeToggle from './ThemeToggle';
+import ThemeToggle from './ThemeToggle.jsx';
 
 const Navbar = ({ theme, toggleTheme }) => {
   return (
